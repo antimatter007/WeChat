@@ -21,7 +21,7 @@ Make sure you have Node.js and npm install.
 
   1. Clone or Download the repository 
     <pre>git clone https://github.com/batuhaniskr/real-time-chat-application.git
-    $ cd Real-Time-Chat-Application</pre>
+    $ cd WeChat</pre>
   2. Install Dependencies
       <pre>npm install</pre>
   
@@ -30,7 +30,7 @@ Make sure you have Node.js and npm install.
   Application runs from localhost:3000.
       
 
- ## Sockets
+ ## WebSockets
     
    Having an active connection opened between the client and the server so client can send and receive data. This allows             real-time communication using TCP sockets. This is made possible by Socket.io.
 
