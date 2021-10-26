@@ -20,7 +20,7 @@
 Make sure you have Node.js and npm install.
 
   1. Clone or Download the repository 
-    <pre>git clone https://github.com/batuhaniskr/real-time-chat-application.git
+    <pre>git clone https://github.com/antimatter007/WeChat.git
     $ cd WeChat</pre>
   2. Install Dependencies
       <pre>npm install</pre>
