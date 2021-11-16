@@ -131,6 +131,7 @@ html, body {
 
 .chat-body{
   background-image: url('1.jpg'); 
+  background-repeat: no-repeat;
   background-position: center ;
 }
 
