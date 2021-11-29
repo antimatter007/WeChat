@@ -146,16 +146,14 @@ html, body {
 
 .chat-body{
   background-image: url('2.jpg');
-  /* Full height */
-  height: 150%;
-  /* Center and scale the image nicely */
-  /* background-position: center; */
+  height: 30%;
   background-size:cover;
 }
 
 .chat-container {
   background-image: url('3.png'); 
-	max-width: 50%;
+	max-width: 45%;
+  height: 800px;
   border-radius: 25px;
 	margin: 30px auto;
   opacity: 1;
