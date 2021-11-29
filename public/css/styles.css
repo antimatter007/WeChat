@@ -156,6 +156,7 @@ html, body {
 }
 
 .chat-container {
+  background-image: url('3.png'); 
 	max-width: 50%;
 	background:rgba(3, 3, 3, 0.932);
   border-radius: 25px;
@@ -253,9 +254,11 @@ html, body {
 
 .chat-form-container input[type='text'] {
 	font-size: 16px;
-	padding: 5px;
-	height: 40px;
-  flex: 1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+	height: 20px;
+  flex: 5;
   border-radius: 10px;
 }
 
@@ -266,8 +269,11 @@ html, body {
   text-transform: uppercase;
   text-decoration: none;
   background: blue;
-  padding: 12px;
-  margin-left: 10px;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 15px;
+  margin-left: 20px;
   border-radius: 5px;
   display: inline-block;
   border: none;
