@@ -4,7 +4,7 @@
   This application built using Node.js, Express, Socket.io.
   
 ![Test Image 1](readme.png)
-<!-- ![Test Image 1](Chat-Page.png) -->
+![Test Image 1](Chat-Page.png)
 
 # [LIVE LINK](https://real-time-wechat-application.herokuapp.com/)
 
