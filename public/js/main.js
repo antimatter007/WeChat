@@ -34,10 +34,10 @@ socket.on('message', message=>{
 chatForm.addEventListener('submit',(e)=>{
     e.preventDefault();
 
-    //gettting the message
+    //gettting the message, Listen the message by a user
     const msg = e.target.elements.msg.value;
 
-    //Emit message to the server
+    //Send this message to the server using Emit
     socket.emit('chatMessage', msg);
 
     e.target.elements.msg.value='';
